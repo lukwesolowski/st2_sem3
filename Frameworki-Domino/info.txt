@@ -1,0 +1,40 @@
+- Jedna ocena: projekt == lab
+- Konsultacje: czwartek od 12.00, pokój 2026
+
+Na nastêpne zajêcia: 
+- lista FRAMEWORKÓW:
+	* MVC i pochodne, np. Ruby, Django
+	* Restowe, np. Limonate, SLIM
+- zastanowiæ siê czy chcemy SASS/LESS
+- jakie szablony
+
+----------------------------------------
+PROJEKT
+- 2 frameworki na dan¹ grupê ---> tematy do 19 paŸdziernika
+
+MVC, MVP, MVVM, MTV
+- GUI
+- Strona webowa
+- Musi byæ jakiœ panel, np. admina
+- OAuth/JWT (uwierzytelnianie)
+- system szablonów
+- XML, CSS, JavaScript
+- ORL (mapowanie obiektów na relacjê) <- zwykle jest we frameworku
+
+REST
+- brak GUI
+- CURL: 4 nag³ówki HTTP -> GET, POST, PUT, DELETE ... 
+- CRUD na bazie danych (INSERT, SELECT, UPDATE, DELETE)
+- obs³uga odpowiednich nag³ówków HTTP
+- negocjacja treœci (min. 2 formaty), 
+	np. XML, JSON, YAML, plain text, CVS, ...
+	(mo¿na u¿yæ tu funkcji konwertuj¹cej)
+- obs³uga kolekcji i ich cz³onków
+- obs³uga co najmniej 3 b³êdów,
+	np. 404, 401, 500 ...
+- uwierzytelnianie do operacji zapisu,
+	mo¿e byæ BASIC,
+	za dod. pkty, np. DIGIT, OAuth, JWT
+
+
+	
